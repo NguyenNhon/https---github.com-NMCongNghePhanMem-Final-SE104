@@ -1,0 +1,5 @@
+E:\Do-an\Ghep code\QuanLyKhachSan\QuanLyKhachSan\DataTransferObject\bin\Debug\DataTransferObject.dll
+E:\Do-an\Ghep code\QuanLyKhachSan\QuanLyKhachSan\DataTransferObject\bin\Debug\DataTransferObject.pdb
+E:\Do-an\Ghep code\QuanLyKhachSan\QuanLyKhachSan\DataTransferObject\obj\Debug\DataTransferObject.csprojResolveAssemblyReference.cache
+E:\Do-an\Ghep code\QuanLyKhachSan\QuanLyKhachSan\DataTransferObject\obj\Debug\DataTransferObject.dll
+E:\Do-an\Ghep code\QuanLyKhachSan\QuanLyKhachSan\DataTransferObject\obj\Debug\DataTransferObject.pdb

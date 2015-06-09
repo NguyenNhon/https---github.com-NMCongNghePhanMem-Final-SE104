@@ -1,0 +1,9 @@
+E:\Do-an\Ghep code\QuanLyKhachSan\QuanLyKhachSan\BusinessLogicTier\bin\Debug\BusinessLogicTier.dll
+E:\Do-an\Ghep code\QuanLyKhachSan\QuanLyKhachSan\BusinessLogicTier\bin\Debug\BusinessLogicTier.pdb
+E:\Do-an\Ghep code\QuanLyKhachSan\QuanLyKhachSan\BusinessLogicTier\bin\Debug\DataAccessTier.dll
+E:\Do-an\Ghep code\QuanLyKhachSan\QuanLyKhachSan\BusinessLogicTier\bin\Debug\DataTransferObject.dll
+E:\Do-an\Ghep code\QuanLyKhachSan\QuanLyKhachSan\BusinessLogicTier\bin\Debug\DataAccessTier.pdb
+E:\Do-an\Ghep code\QuanLyKhachSan\QuanLyKhachSan\BusinessLogicTier\bin\Debug\DataTransferObject.pdb
+E:\Do-an\Ghep code\QuanLyKhachSan\QuanLyKhachSan\BusinessLogicTier\obj\Debug\BusinessLogicTier.csprojResolveAssemblyReference.cache
+E:\Do-an\Ghep code\QuanLyKhachSan\QuanLyKhachSan\BusinessLogicTier\obj\Debug\BusinessLogicTier.dll
+E:\Do-an\Ghep code\QuanLyKhachSan\QuanLyKhachSan\BusinessLogicTier\obj\Debug\BusinessLogicTier.pdb
